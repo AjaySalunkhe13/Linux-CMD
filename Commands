@@ -1,0 +1,18 @@
+ls -> list the name of files
+lis -a -> list the hidden files
+cd -> go tho Home directory
+cd .. -> close parent directory
+cd /etc -> go to etc directory
+pwd -> display the path of current directory
+mkdir xyz -> make a new directory with name xyz in current directory
+rmdir y -> remove a directory y permanantly provide y is permanantly
+cp A B -> copy a file from path A to B
+mv A B -> move a file from path A to B
+rm x -> remove/delete x permanantly
+touch X -> create a empty x file 
+cat x -> view contents of x
+wc x -> Word count of x
+head x -> display first 10 line of x
+head -n 4 x -> display the first 4 lines of x
+tail x -> display the last 10 (Default) lines
+tail -n +1 x -> display the the entire contents of the file x specified
